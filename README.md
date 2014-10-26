@@ -7,7 +7,7 @@ C ve Sistem Programcilari Dernegi'nde aldigimiz Java kursu sonunda bitirmeyi pla
  - GUI icin Swing kutuphanesini kullanmayi planliyoruz.
  - Database olarak MySQL kullanmayi planliyoruz.
 
-Genisletmeyi planladigimiz moduller su sekil;
+Suanda var olan moduller su sekil;
 
 1. Kullanici Islemleri
   a. Yeni Kullanici
